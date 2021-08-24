@@ -45,12 +45,12 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="./img/node.png" width="91" height="48" alt="Node" />
+      <img src="./img/node.png" width="48" height="48" alt="Node" />
       <br>nodejs
     </td>
     <td align="center" width="96">
-      <img src="./img/MongoDB.jpg" width="40" height="48" alt="mongoDB" />
-      <br>Firebase
+      <img src="./img/mongodb.png" width="25" height="48" alt="mongoDB" />
+      <br>MongoDB
     </td>
   </tr>
 
