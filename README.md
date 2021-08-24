@@ -53,6 +53,32 @@
       <br>MongoDB
     </td>
   </tr>
+   <tr>
+    <td align="center" width="96">
+      <img src="./img/sqlite.jpg" width="48" height="48" alt="sqlite" />
+      <br>SQLITE
+    </td>
+    <td align="center" width="96">
+      <img src="./img/MYSQL.png" width="48" height="48" alt="mysql" />
+      <br>MySql
+    </td>
+    <td align="center" width="96">
+      <img src="./img/redux.png" width="48" height="48" alt="redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="./img/as.png" width="48" height="48" alt="android studio" />
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <img src="./img/VSCODE.png" width="48" height="48" alt="vscode" />
+      <br>VSCODE
+    </td>
+    <td align="center" width="96">
+      <img src="./img/figma.jpg" width="48" height="48" alt="figma" />
+      <br>Figma
+    </td>
+  </tr>
 
 </table>
   
