@@ -37,8 +37,20 @@
       <br>Android
     </td>
     <td align="center" width="96">
-      <img src="./img/rn.png" width="48" height="40" alt="react native" />
+      <img src="./img/rn.png" width="48" height="36" alt="react native" />
       <br>reactNative
+    </td>
+    <td align="center" width="96">
+      <img src="./img/firebase.png" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="./img/node.png" width="96" height="48" alt="Node" />
+      <br>nodejs
+    </td>
+    <td align="center" width="96">
+      <img src="./img/firebase.png" width="48" height="36" alt="firebase" />
+      <br>Firebase
     </td>
   </tr>
 
