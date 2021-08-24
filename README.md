@@ -1,4 +1,5 @@
-<h2 align="center"> Hi there!, I am <b>Arin Modi</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h2>
+<h2 align="center"> Hi there!, I am <b>Arin Modi</b>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h2><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arinmodi&label=Profile%20Visits&color=00A36C&style=flat" alt="arinmodi" /> </p>
 
