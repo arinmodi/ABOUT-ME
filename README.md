@@ -17,10 +17,32 @@
 
 ### :hammer_and_wrench: Technology & Tools : <br><br>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<table>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/java.png" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="./img/kotlin.png" width="48" height="48" alt="kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="./img/js.png" width="48" height="48" alt="javaScript" />
+      <br>javaScript
+    </td>
+    <td align="center" width="96">
+      <img src="./img/android.png" width="48" height="48" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="150">
+      <img src="./img/rn.png" width="48" height="48" alt="react native" />
+      <br>react-native
+    </td>
+  </tr>
+
+</table>
   
 <!---
 arinmodi/arinmodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
