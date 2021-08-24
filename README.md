@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arinmodi&label=Profile%20Visits&color=00A36C&style=flat" alt="arinmodi" /> </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility_4x.png?compress=1&resize=350x250" alt="logo"/>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
