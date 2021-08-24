@@ -13,9 +13,9 @@
 
 - :eyes:   I’m looking to collaborate on <b>Mobile app development</b> projects<br>
 
-- 📫   You can contact me by my email <b>arinmodi2306@gmail.com</b><br><br><br>
+- 📫   You can contact me by my email <b>arinmodi2306@gmail.com</b><br><br>
 
-### :hammer_and_wrench: Technology & Tools : <br><br>
+### :hammer_and_wrench: Technology & Tools : <br>
 
 <table>
 
@@ -48,14 +48,14 @@
       <img src="./img/node.png" width="48" height="48" alt="Node" />
       <br>nodejs
     </td>
+  </tr>
+   <tr>
     <td align="center" width="96">
       <img src="./img/mongodb.png" width="25" height="48" alt="mongoDB" />
       <br>MongoDB
     </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
-      <img src="./img/sqlite.jpg" width="48" height="48" alt="sqlite" />
+      <img src="./img/sqlite.png" width="48" height="48" alt="sqlite" />
       <br>SQLITE
     </td>
     <td align="center" width="96">
@@ -67,20 +67,27 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="./img/as.png" width="48" height="48" alt="android studio" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
       <img src="./img/VSCODE.png" width="48" height="48" alt="vscode" />
       <br>VSCODE
     </td>
     <td align="center" width="96">
-      <img src="./img/figma.jpg" width="48" height="48" alt="figma" />
+      <img src="./img/figma.png" width="48" height="48" alt="figma" />
       <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="./img/github.png" width="48" height="48" alt="git" />
+      <br>Github
     </td>
   </tr>
 
-</table>
+</table><br><br>
+
+### :desktop_computer: Quick stats: <br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arinmodi&count_private=true&show_icons=true)
+
+
+
   
 <!---
 arinmodi/arinmodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
