@@ -33,12 +33,12 @@
       <br>javaScript
     </td>
     <td align="center" width="96">
-      <img src="./img/android.png" width="48" height="48" alt="Android" />
+      <img src="./img/android.png" width="36" height="43" alt="Android" />
       <br>Android
     </td>
-    <td align="center" width="150">
-      <img src="./img/rn.png" width="48" height="48" alt="react native" />
-      <br>react-native
+    <td align="center" width="96">
+      <img src="./img/rn.png" width="48" height="40" alt="react native" />
+      <br>reactNative
     </td>
   </tr>
 
