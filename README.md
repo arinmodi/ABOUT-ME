@@ -7,7 +7,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- :raising_hand_man:   I’m interested in <b>MOBILE APP DEVELOPMENT</b> and <b>MACHINE LEARNING</b><br>
+- :raising_hand_man:   I’m interested in <b>MOBILE APP DEVELOPMENT</b> and <b>BLOCKCHAIN</b><br>
 
 - :mortar_board:   I’m currently doing <b>B.Tech in Computer Engineering</b><br>
 
