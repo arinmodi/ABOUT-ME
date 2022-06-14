@@ -1,11 +1,11 @@
 <h2 align="center"> Hi there!, I am <b>Arin Modi</b>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h2><br>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=29> </h2><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arinmodi&label=Profile%20Visits&color=00A36C&style=flat" alt="arinmodi" /> </p>
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width=45> About Me:
 
 - :raising_hand_man:   I’m interested in <b>MOBILE APP DEVELOPMENT</b> and <b>New Technolgies</b><br>
 
