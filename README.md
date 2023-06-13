@@ -11,7 +11,7 @@
 
 - :mortar_board:   I’m currently doing <b>B.Tech in Computer Engineering</b><br>
 
-- :eyes:   I’m looking to collaborate on <b>Mobile app development</b> projects<br>
+- :eyes:   I’m looking to collaborate on <b>Software Enginnering</b> projects<br>
 
 - 📫   You can contact me by my email <b>arinmodi2306@gmail.com</b><br><br>
 
