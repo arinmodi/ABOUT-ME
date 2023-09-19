@@ -80,12 +80,15 @@
     </td>
   </tr>
 
-</table><br><br>
+</table>
 
-### 📱 Play Console : 
-<a href="https://play.google.com/store/apps/dev?id=6266890499801054784"><img src="https://user-images.githubusercontent.com/61725413/160282895-0ef95f21-9f2d-48b8-9e46-a633c2ba5c06.png" width ="450" height="250" /></a>
-<h4><a href="https://play.google.com/store/apps/dev?id=6266890499801054784"> - My Play Console </a><h4/>
-<br><br>
+<br>
+
+
+#### 📑 Resume : <a href="https://drive.google.com/file/d/1DG6RTd5v4Caj-XOgxE7io59ySQdocCTo/view">FOR RESUME CLICK HERE</a>
+#### 📱 Play Console : <a href="https://play.google.com/store/apps/dev?id=6266890499801054784">CHECK MY APPS HERE</a>
+
+<br>
 
 ### :desktop_computer: Quick stats: <br>
 
