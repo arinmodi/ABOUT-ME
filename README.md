@@ -7,11 +7,11 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width=45> About Me:
 
-- :raising_hand_man:   I’m interested in <b>Cloud</b> and <b>New Technolgies</b><br>
+- :raising_hand_man:   I’m interested in <b>AI/ML, Distributed Systems</b> and <b>System Designs</b><br>
 
-- :mortar_board:   I’m currently doing <b>B.Tech in Computer Engineering</b><br>
+- :mortar_board:   I’m currently an Full Stack Software Developer working on LLM powered application using <b>FastAPI</b>, <b>NestJS</b> and <b>Angular</b><br>
 
-- :eyes:   I’m looking to collaborate on <b>Software Enginnering</b> projects<br>
+- :eyes:   I’m looking to collaborate on <b>complex, challenging</b> projects in  field of LLMs, DB development<br>
 
 - 📫   You can contact me by my email <b>arinmodi2306@gmail.com</b><br><br>
 
